@@ -1,15 +1,15 @@
-.para1{
-  background-color:aquamarine;
+.para1 {
+  background-color: aquamarine;
   font-style: oblique;
-  font-weight:bolder;
+  font-weight: bolder;
   line-height: 2;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
+/* html {
+  background-image: url("wp2119210.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
 
 
 
@@ -29,7 +29,25 @@ html, body {
   width: 80%;
   height:5px ;
 } */
-span{
+span {
   background-color: blueviolet;
   color: black;
+}
+
+div {
+  width: 100%;
+  height: 400px;
+  background-image: url("wp2119210.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-size: larger;
+  color:indigo;
+}
+
+.box {
+  
+  background-size: cover;
+  
+  background-repeat: no-repeat;
 }
